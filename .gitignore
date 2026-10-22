@@ -1,0 +1,5 @@
+build/
+dist/
+death_count.txt
+__pycache__/
+*.pyc
